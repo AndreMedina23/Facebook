@@ -1,0 +1,28 @@
+body{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+.logo-principal{
+    width: 170px;
+    height: 35px;
+}
+.h2{
+    font-size: 28px;
+    font-weight: normal;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.contenedor{
+
+}
+.boton-login{
+    color: white;
+    background-color: #1977f1;
+    border-radius: .5rem;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+.login{
+    color: #1977f1;
+    text-decoration: none;
+}
